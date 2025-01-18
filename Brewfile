@@ -1,3 +1,4 @@
+# Dev tools
 brew "neovim"
 brew "tmux"
 brew "powerlevel10k"
@@ -13,10 +14,10 @@ brew "git"
 brew "wget"
 brew "cloudflared"
 brew "ollama"
-
 cask "docker"
 cask "ghostty"
 
+# Other apps
 cask "firefox"
 cask "spotify"
 cask "google-chrome"
