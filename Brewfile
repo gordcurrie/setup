@@ -14,8 +14,9 @@ brew "git"
 brew "wget"
 brew "cloudflared"
 brew "ollama"
-cask "docker"
 cask "ghostty"
+brew "node"
+brew "podman"
 
 # Other apps
 cask "firefox"
