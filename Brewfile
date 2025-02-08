@@ -7,8 +7,9 @@ brew "the_silver_searcher"
 brew "fzf"
 brew "zoxide"
 brew "cmake"
+brew "ninja" # Small build system for use with gyp or CMake
+brew "dfu-util" # USB Programmer
 brew "protobuf"
-brew "rust"
 brew "python@3.10"
 brew "git"
 brew "wget"
@@ -17,6 +18,7 @@ brew "ollama"
 cask "ghostty"
 brew "node"
 brew "podman"
+brew "wireshark"
 
 # Other apps
 cask "firefox"
