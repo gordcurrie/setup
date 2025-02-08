@@ -18,7 +18,6 @@ brew "ollama"
 cask "ghostty"
 brew "node"
 brew "podman"
-brew "wireshark"
 
 # Other apps
 cask "firefox"
