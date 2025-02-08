@@ -18,6 +18,8 @@ brew "ollama"
 cask "ghostty"
 brew "node"
 brew "podman"
+brew "direnv"
+brew "ansible"
 
 # Other apps
 cask "firefox"
