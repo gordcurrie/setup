@@ -20,6 +20,7 @@ brew "node"
 brew "podman"
 brew "direnv"
 brew "ansible"
+brew "watch"
 
 # Other apps
 cask "firefox"
