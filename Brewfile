@@ -29,3 +29,5 @@ cask "google-chrome"
 cask "proton-pass"
 cask "discord"
 cask "zoom"
+cask "ultimaker-cura"
+
