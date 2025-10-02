@@ -21,6 +21,8 @@ brew "podman"
 brew "direnv"
 brew "ansible"
 brew "watch"
+brew "gh"
+brew "postgresql"
 
 # Other apps
 cask "firefox"
@@ -30,4 +32,6 @@ cask "proton-pass"
 cask "discord"
 cask "zoom"
 cask "ultimaker-cura"
+cask "bruno"
+cask "podman-desktop"
 
