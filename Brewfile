@@ -34,4 +34,5 @@ cask "zoom"
 cask "ultimaker-cura"
 cask "bruno"
 cask "podman-desktop"
+cask "visual-studio-code"
 
