@@ -1,7 +1,6 @@
 # Dev tools
 brew "neovim"
 brew "tmux"
-brew "powerlevel10k"
 brew "go"
 brew "the_silver_searcher"
 brew "fzf"
@@ -23,6 +22,7 @@ brew "ansible"
 brew "watch"
 brew "gh"
 brew "postgresql"
+brew "lnav"
 
 # Other apps
 cask "firefox"
